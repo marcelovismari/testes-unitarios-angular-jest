@@ -1,4 +1,4 @@
-# # Exemplos de testes unitarios Angular com Jest
+# Exemplos de testes unitarios Angular com Jest
 Exemplos de como construir testes unitários para um projeto Angular
 utilizando Jest.
 
